@@ -32,3 +32,6 @@ with open('poke.json', 'r') as file:
 
 for stat_name, stat_value in data[b].items():
     print(f"{stat_name()}: {stat_value}")
+
+
+# testing the changes
